@@ -1,0 +1,21 @@
+order_id,date,product,category,units_sold,unit_price,revenue,region,customer_segment
+1001,2024-01-05,Laptop Pro,Electronics,12,1200.00,14400.00,North,Enterprise
+1002,2024-01-07,Office Chair,Furniture,30,350.00,10500.00,South,SMB
+1003,2024-01-10,Python Bootcamp,Education,85,199.00,16915.00,Online,Consumer
+1004,2024-01-12,Wireless Mouse,Electronics,200,45.00,9000.00,West,Consumer
+1005,2024-01-15,Standing Desk,Furniture,18,650.00,11700.00,North,Enterprise
+1006,2024-01-18,Data Science Course,Education,120,299.00,35880.00,Online,Consumer
+1007,2024-01-20,Monitor 4K,Electronics,45,800.00,36000.00,East,Enterprise
+1008,2024-01-22,Ergonomic Keyboard,Electronics,150,120.00,18000.00,South,SMB
+1009,2024-01-25,SQL Masterclass,Education,200,149.00,29800.00,Online,Consumer
+1010,2024-02-01,Laptop Pro,Electronics,8,1200.00,9600.00,East,Enterprise
+1011,2024-02-05,Bookshelf,Furniture,60,180.00,10800.00,West,Consumer
+1012,2024-02-08,ML Foundations,Education,95,249.00,23655.00,Online,Consumer
+1013,2024-02-12,Webcam HD,Electronics,300,89.00,26700.00,North,SMB
+1014,2024-02-15,Conference Table,Furniture,5,1800.00,9000.00,South,Enterprise
+1015,2024-02-20,Cloud Computing,Education,180,179.00,32220.00,Online,Consumer
+1016,2024-03-01,Laptop Pro,Electronics,15,1200.00,18000.00,West,Enterprise
+1017,2024-03-05,Filing Cabinet,Furniture,25,280.00,7000.00,North,SMB
+1018,2024-03-10,Power BI Course,Education,110,199.00,21890.00,Online,Consumer
+1019,2024-03-15,USB Hub,Electronics,400,35.00,14000.00,East,Consumer
+1020,2024-03-20,Desk Lamp,Furniture,80,75.00,6000.00,South,Consumer
